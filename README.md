@@ -32,4 +32,5 @@ Abaixo está a representação da criação e do mapeamento das tabelas geradas 
 ## Visualização do Catálogo Completo (Interface)
 
 Alinhado ao banco de dados, o catálogo final consome diretamente a **VIEW `catalogo`** para exibir os filmes de forma dinâmica para o cliente final:
+
 <img width="230" height="258" alt="image" src="https://github.com/user-attachments/assets/6cd64bde-0a93-4823-8dc2-b0352bb25540" />
