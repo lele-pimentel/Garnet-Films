@@ -1,4 +1,4 @@
-# Garnet Films 🎬 - Sistema de Gerenciamento de Catálogo
+# Garnet Films - Sistema de Gerenciamento de Catálogo
 
 Um Projeto prático de Banco de Dados desenvolvido como requisito avaliativo para a disciplina de **Segurança de Banco de Dados** na **Fatec Antonio Russo São Caetano do Sul**. O projeto foi construído em colaboração por **Leticia Silva Pimentel** e **Davi Augusto Freitas da Silva**.
 
@@ -6,7 +6,7 @@ O objetivo foi projetar e implementar o ecossistema de dados para a **Garnet Fil
 
 ---
 
-## 📌 Funcionalidades e Requisitos Atendidos
+## Funcionalidades e Requisitos:
 
 - [x] **Modelagem de Dados & Relacionamentos:** Criação de tabelas base (`genero`, `diretor`, `atores`, `filme` e `log_filmes`) com chaves estrangeiras estruturadas.
 - [x] **Triggers de Integridade & Auditoria:** Automatização de processos vitais de segurança diretamente no SGBD.
